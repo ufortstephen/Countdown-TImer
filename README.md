@@ -1,4 +1,4 @@
-# Countdown-TImer
+# Countdown-Timer
 JavaScript Countdown done with Vanilla JavaScript 
 This Project is to build a Stop Watch
 Part of my Vanilla Javascript Project
@@ -9,7 +9,7 @@ Steps on how this Project was built:
 2. Give the body a background color and display it flex to make all items go to the center
 3. Then create the elements that would hold the stop watch and the control buttons
 4. Give the elements that hold the countdown an id 
-5. GIve the buttons id
+5. GIve the buttons an identifier
 
 JavaScript:
 
